@@ -1,5 +1,6 @@
-# audits-overview
+# Findings overview
 Overview of participated audits and findings
+
 Some can also be seen on [Code4rena profile page](https://code4rena.com/@Lirios)
 
 | date | Project | platform | finding | classification | type | link |
